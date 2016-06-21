@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alerte au Gogol !</string>
+    <string name="enable_service">Enable Gogol Shake Detection</string>
+    <string name="enabled_service">Gogol Shake Detection is active</string>
+
+    <string name="gogol_pref">gogol_pref</string>
+</resources>
